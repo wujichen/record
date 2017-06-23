@@ -3,6 +3,7 @@
 This record is intended to preserve the emotional expression of the individual and the quick record of knowledge.
 
 这份记录是用于保存个人的一些情绪的表达以及知识的快速记录。
+
 ---
 # About copyright
 # 关于版权
